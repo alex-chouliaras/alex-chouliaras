@@ -10,23 +10,12 @@ Systems dev trying to survive school exams and lock down an apprenticeship/gig i
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=golang,python,ts,nextjs,bash,mongodb,oracle,linux,docker,git" />
+  <img src="https://skillicons.dev/icons?i=golang,python,ts,nextjs,bash,mongodb,linux,docker,git" />
 </p>
 
 ---
 
-### GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-chouliaras&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-chouliaras&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alex-chouliaras&theme=tokyonight&hide_border=true" width="98%" />
-</p>
-
----
 
 ### Projects
 * **[NorwichAero](https://github.com/alex-chouliaras/norwichaero):** Open-source resource platform helping regional students break out of local isolation by mapping out national industry pathways, hub work experience, and airline apprenticeships. 
