@@ -1,24 +1,39 @@
-### Alex
+### [Your Name]
 
-Systems & Web dev 
+Systems dev trying to survive school exams and lock down an apprenticeship/gig in aviation down the road. 
 
-* **Current Status:** Working on personal projects.
-* **Focus:** Enterprise networking, backend infrastructure, and cloud architecture.
+* **Current Status:** Head down in books clearing school exams, building projects in between.
+* **Focus:** Enterprise networking, backend infrastructure, and community tooling.
 
 ---
 
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=golang,python,ts,next,fastapi,bash,mongodb,linux,docker,git" />
+  <img src="https://skillicons.dev/icons?i=golang,python,ts,nextjs,bash,mongodb,oracle,linux,docker,git" />
+</p>
+
+---
+
+### GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alex-chouliaras&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-chouliaras&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alex-chouliaras&theme=tokyonight&hide_border=true" width="98%" />
 </p>
 
 ---
 
 ### Projects
-* **NorwichAero:** A resource platform helping regional students break out of local isolation by mapping out national industry pathways, major hub work experience, and airline apprenticeship opportunities.
+* **[NorwichAero](https://github.com/alex-chouliaras/norwichaero):** Open-source resource platform helping regional students break out of local isolation by mapping out national industry pathways, hub work experience, and airline apprenticeships. 
+
 ---
 
 ### Links
-* GitHub: [@alex-chouliaras](https://github.com/alex-chouliaras)
-* LinkedIn: [@alex-chouliaras](https://linkedin.com/in/alex-chouliaras)
+* Website: [norwichaero.co.uk](https://norwichaero.co.uk)
+* GitHub: [@yourusername](https://github.com/alex-chouliaras)
+* LinkedIn: [Your Name](https://linkedin.com/in/alex-chouliaras)
