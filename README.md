@@ -1,8 +1,6 @@
-### [Your Name]
+### Alex
 
-Systems dev trying to survive school exams and lock down an apprenticeship/gig in aviation down the road. 
-
-* **Current Status:** Head down in books clearing school exams, building projects in between.
+* **Current Status:** School
 * **Focus:** Enterprise networking, backend infrastructure, and community tooling.
 
 ---
@@ -18,11 +16,10 @@ Systems dev trying to survive school exams and lock down an apprenticeship/gig i
 
 
 ### Projects
-* **[NorwichAero](https://github.com/alex-chouliaras/norwichaero):** Open-source resource platform helping regional students break out of local isolation by mapping out national industry pathways, hub work experience, and airline apprenticeships. 
+* **[A320 Power Generation Model](https://github.com/alex-chouliaras/norwichaero):** A precise technical logic model tracking the parameter validation, over/under frequency tolerances, and automatic GCU trip behaviors of Airbus A320 power generation sources.
 
 ---
 
 ### Links
-* Website: [norwichaero.co.uk](https://norwichaero.co.uk)
-* GitHub: [@yourusername](https://github.com/alex-chouliaras)
-* LinkedIn: [Your Name](https://linkedin.com/in/alex-chouliaras)
+* GitHub: [@alex-chouliaras](https://github.com/alex-chouliaras)
+* LinkedIn: [@alex-chouliaras](https://linkedin.com/in/alex-chouliaras)
