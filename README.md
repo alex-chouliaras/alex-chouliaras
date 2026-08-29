@@ -16,7 +16,7 @@
 
 
 ### Projects
-* **[A320 Power Generation Model](https://github.com/alex-chouliaras/norwichaero):** A precise technical logic model tracking the parameter validation, over/under frequency tolerances, and automatic GCU trip behaviors of Airbus A320 power generation sources.
+* **[A320 Power Generation Model](https://github.com/alex-chouliaras/a320-power-generation-model):** A precise technical logic model tracking the parameter validation, over/under frequency tolerances, and automatic GCU trip behaviors of Airbus A320 power generation sources.
 
 ---
 
