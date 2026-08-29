@@ -8,7 +8,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=golang,python,ts,nextjs,bash,mongodb,linux,docker,git" />
+  <img src="https://skillicons.dev/icons?i=golang,python,bash,mongodb,linux,docker,git" />
 </p>
 
 ---
